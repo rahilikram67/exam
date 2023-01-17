@@ -1,0 +1,48 @@
+[
+    {
+        "_id": "1",
+        "type": "sub",
+        "question": "The United States bought Alaska from which country?"
+    },
+    {
+        "_id": "2",
+        "type": "sub",
+        "question": "Which era marked a switch from agricultural practices to industrial practices?"
+    },
+    {
+        "_id": "3",
+        "type": "sub",
+        "question": "What was the name of the series of programs and projects President Franklin D. Roosevelt enacted during The Great Depression?",
+        "imgs": [
+            "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?cs=srgb&dl=pexels-pixabay-268533.jpg&fm=jpg",
+            "https://images.unsplash.com/photo-1471879832106-c7ab9e0cee23?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80",
+            "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?cs=srgb&dl=pexels-pixabay-268533.jpg&fm=jpg",
+            "https://images.unsplash.com/photo-1471879832106-c7ab9e0cee23?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80",
+            "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?cs=srgb&dl=pexels-pixabay-268533.jpg&fm=jpg",
+            "https://images.unsplash.com/photo-1471879832106-c7ab9e0cee23?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80",
+            "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?cs=srgb&dl=pexels-pixabay-268533.jpg&fm=jpg",
+            "https://images.unsplash.com/photo-1471879832106-c7ab9e0cee23?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80"
+        ]
+    },
+    {
+        "_id": "4",
+        "type": "sub",
+        "question": "Which two Native American leaders led Lakota Sioux and Cheyenne warriors in the fight against Lieutenant Colonel George Custer’s troops in the Battle of Little Bighorn?"
+    },
+    {
+        "_id": "5",
+        "type": "mcqs",
+        "question": "Which era marked a switch from agricultural practices to industrial practices?",
+        "options": [
+            "1890",
+            "1840",
+            "1950",
+            "2022",
+            "1890",
+            "1840",
+            "1950",
+            "2022"
+        ],
+        "countType": "decimal"
+    }
+]
